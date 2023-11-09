@@ -1,2 +1,2 @@
-#Life satisfaction Data
-#GDP Per Capita Data
+# Life satisfaction Data
+# GDP Per Capita Data
