@@ -6,3 +6,4 @@ This repository is dedicated to exploring the exciting domain of Machine Learnin
 
 * [Titanic.ipynb](https://github.com/KelvinMumo/Machine-Learning/blob/main/Titanic.ipynb) - Exploring various ML classifiers—Random Forest, Stochastic Gradient Descent (SGD), Support Vector Classifier (SVC), and K-Nearest Neighbors (KNN)—to develop models that predict which passengers survived the Titanic shipwreck.
 
+* [MNIST Classifier.ipynb](https://github.com/KelvinMumo/Machine-Learning/blob/main/MNIST%20Classifier.ipynb) - The task is to build a machine learning model that accurately classifies the handwritten digits contained in the `MNIST dataset` into their respective categories `(0 through 9)` based on the pixel values of the images. The MNIST dataset is a popular benchmark dataset in the field of machine learning and computer vision. It consists of a large collection of `28x28` pixel `grayscale images` of handwritten digits (0-9).
