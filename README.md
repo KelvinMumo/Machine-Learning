@@ -13,3 +13,10 @@ This repository is dedicated to exploring the exciting domain of Machine Learnin
   * Using an iterative optimization approach called `gradient descent (GD)` that gradually tweaks the model parameters to minimize the cost function over the training set. Also covers the following variants of **GD**: `batch GD`, `mini-batch GD`, and `stochastic GD`.
 
 * [Polynomial Regression.ipynb](https://github.com/KelvinMumo/Machine-Learning/blob/main/Polynomial%20Regression.ipynb) - Deals with `polynomial regression`, a more complex model that can fit `nonlinear datasets`. Polynomial regression has more parameters than linear regression and is therefore more prone to overfitting the training data. Thus, this notebook also explores how to detect whether or not the model is `overfitting` the training data, by making use of `learning curves`.
+
+* [Regularized Linear Models.ipynb](https://github.com/KelvinMumo/Machine-Learning/blob/main/Regularized%20Linear%20Models.ipynb) - Regularization reduces the chances of overfitting the training set. For a linear model, regularization is typically achieved by constraining the weights of the model. The regularized linear models studied include:
+  * `Ridge regression`
+  * `Lasso regression` and
+  * `Elastic net`
+ 
+  These models implement three different ways to constrain the weights. This notebook also covers the concept of `early stopping` which is a very different way to regularize `iterative learning` algorithms such as `gradient descent` by stopping training as soon as the validation error reaches a minimum. 
