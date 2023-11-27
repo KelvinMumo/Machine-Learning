@@ -20,3 +20,6 @@ This repository is dedicated to exploring the exciting domain of Machine Learnin
   * `Elastic net`
  
   These models implement three different ways to constrain the weights. This notebook also covers the concept of `early stopping` which is a very different way to regularize `iterative learning` algorithms such as `gradient descent` by stopping training as soon as the validation error reaches a minimum. 
+
+* [Logistic Regression.ipynb](https://github.com/KelvinMumo/Machine-Learning/blob/main/Logistic%20Regression.ipynb) - Explores `logistic regression` which is commonly used to
+estimate the probability that an instance belongs to a particular class thus making it a `binary classifier`. A logistc regression model is developed using Scikit-Learn's `Iris Dataset` to to detect the $Iris$ $virginica$ type based only on the petal width feature. Also contains `softmax regression` (multi-class logistic regression) iris classification exercise solution by [Aurélien Géron](https://github.com/ageron/handson-ml3/blob/main/04%20training%20linear%20models.ipynb) 
